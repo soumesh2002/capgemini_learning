@@ -5,6 +5,10 @@ public class Student {
 	private String studentAddress;
 	private String collegeName;
 
+	public String toString() {
+		return "Name: " + getStudentName() + " Address: " + getStudentAddress() + " College Name: " + getCollegeName();
+	}
+
 	public Student(int studentId, String studentName, String studentAddress, String collegeName) {
 		this.studentId = studentId;
 		this.studentName = studentName;

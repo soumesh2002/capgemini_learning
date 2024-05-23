@@ -14,12 +14,12 @@ public class UserInterface {
         if (choice == 1) {
             System.out.println("Enter the radius");
             double radius = sc.nextDouble();
-            
+
             System.out.println("Enter the height");
             double height = sc.nextDouble();
 
             System.out.printf("Volume of the Cylinder is %.2f", V1.calculateVolume(radius, height));
-        
+
         } else {
             System.out.println("Enter the length");
             int length = sc.nextInt();
