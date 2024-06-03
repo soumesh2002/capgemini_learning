@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="areaoftheshapes/AreaOfShapes/src"/>
+	<classpathentry kind="src" path="bloodworksnorthwest/BloodworksNorthwest/src"/>
+	<classpathentry kind="src" path="bmicalculator/BMICalculator/src"/>
+	<classpathentry kind="src" path="calculateexpirydate_usecalendar/CalculateExpiryDate/src"/>
+	<classpathentry kind="src" path="calculateyearsofexperience/CalculateYearsOfExperience/src"/>
+	<classpathentry kind="src" path="datevalidation_usesimpledateformat/DateValidation/src"/>
+	<classpathentry kind="src" path="findletters/FindLetters/src"/>
+	<classpathentry kind="src" path="heightconversion/HeightConversion/src"/>
+	<classpathentry kind="src" path="hotelbooking/HotelBooking/src"/>
+	<classpathentry kind="src" path="lotterywinner/LotteryWinner/src"/>
+	<classpathentry kind="src" path="ludoking/LudoKing/src"/>
+	<classpathentry kind="src" path="magicgoose/MagicGoose/src"/>
+	<classpathentry kind="src" path="movieticket–static/MovieTicket/src"/>
+	<classpathentry kind="src" path="numbernames/NumberNames/src"/>
+	<classpathentry kind="src" path="numberplay/NumberPlay/src"/>
+	<classpathentry kind="src" path="oxygenplants/OxygenPlants/src"/>
+	<classpathentry kind="src" path="printmessage/Print/src"/>
+	<classpathentry kind="src" path="reverseandexpand/ReverseAndExpand/src"/>
+	<classpathentry kind="src" path="simcard/SimCard/src"/>
+	<classpathentry kind="src" path="skyairlines/SkyAirlines/src"/>
+	<classpathentry kind="src" path="smallestofthreenumbers/SmallestNumber/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="studentdetails_constructor/StudentDetails/src"/>
+	<classpathentry kind="src" path="subsetornot/SubsetOrNot/src"/>
+	<classpathentry kind="src" path="sumofmax/SumOfMax/src"/>
+	<classpathentry kind="src" path="sumoften/SumofTen/src"/>
+	<classpathentry kind="src" path="swaptwonumbers/SwapNumbers/src"/>
+	<classpathentry kind="src" path="volumecalculator_overloading/VolumeCalculator/src"/>
+	<classpathentry kind="src" path="twoarraysgame/TwoArraysGame/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
