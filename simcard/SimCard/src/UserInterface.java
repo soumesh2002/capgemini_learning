@@ -11,7 +11,7 @@ public class UserInterface {
         long n = sc.nextLong();
 
         while (n > 0) {
-            int digit = (int)(n % 10);
+            int digit = (int) (n % 10);
             if (digit % 2 == 0) {
                 evensum += digit;
             } else {
